@@ -1,0 +1,9 @@
+float64[] action
+---
+float64[] position
+float64[] target_position
+float64[] orientation
+sensor_msgs/Image img
+sensor_msgs/Image img_depth
+float64 reward
+bool crashed
